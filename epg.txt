@@ -1,0 +1,127 @@
+
+
+
+印尼节目
+<channel id="900000"><display-name lang="zh">ABC Australia</display-name></channel>
+<channel id="900001"><display-name lang="zh">Al Jazeera English </display-name></channel>
+<channel id="900002"><display-name lang="zh">Al Quran Al Kareem</display-name></channel>
+<channel id="900003"><display-name lang="zh">Animax </display-name></channel>
+<channel id="900004"><display-name lang="zh">ANTV</display-name></channel>
+<channel id="900005"><display-name lang="zh">Arirang </display-name></channel>
+<channel id="900006"><display-name lang="zh">AXN</display-name></channel>
+<channel id="900007"><display-name lang="zh">AXN HD </display-name></channel>
+<channel id="900008"><display-name lang="zh">BBC Earth</display-name></channel>
+<channel id="900009"><display-name lang="zh">BBC Earth HD </display-name></channel>
+<channel id="900010"><display-name lang="zh">BBC World News </display-name></channel>
+<channel id="900011"><display-name lang="zh">Bloomberg</display-name></channel>
+<channel id="900012"><display-name lang="zh">BTV</display-name></channel>
+<channel id="900013"><display-name lang="zh">CBeebies</display-name></channel>
+<channel id="900014"><display-name lang="zh">CCM - [Channel 22]</display-name></channel>
+<channel id="900015"><display-name lang="zh">Celebrities TV</display-name></channel>
+<channel id="900016"><display-name lang="zh">Celestial Movies</display-name></channel>
+<channel id="900017"><display-name lang="zh">CGTN - [Channel 353]</display-name></channel>
+<channel id="900018"><display-name lang="zh">CGTN Documentary</display-name></channel>
+<channel id="900019"><display-name lang="zh">Channel News Asia </display-name></channel>
+<channel id="900020"><display-name lang="zh">CINEMACHI</display-name></channel>
+<channel id="900021"><display-name lang="zh">CINEMACHI ACTION</display-name></channel>
+<channel id="900022"><display-name lang="zh">CINEMACHI ACTION HD</display-name></channel>
+<channel id="900023"><display-name lang="zh">CINEMACHI HD</display-name></channel>
+<channel id="900024"><display-name lang="zh">CINEMACHI KIDS</display-name></channel>
+<channel id="900025"><display-name lang="zh">CINEMACHI KIDS HD</display-name></channel>
+<channel id="900026"><display-name lang="zh">CINEMACHI MAX </display-name></channel>
+<channel id="900027"><display-name lang="zh">CINEMACHI MAX HD</display-name></channel>
+<channel id="900028"><display-name lang="zh">CINEMACHI XTRA </display-name></channel>
+<channel id="900029"><display-name lang="zh">CINEMACHI XTRA HD</display-name></channel>
+<channel id="900030"><display-name lang="zh">CNBC</display-name></channel>
+<channel id="900031"><display-name lang="zh">Crime Investigation</display-name></channel>
+<channel id="900032"><display-name lang="zh">Dreamworks</display-name></channel>
+<channel id="900033"><display-name lang="zh">DW English</display-name></channel>
+<channel id="900034"><display-name lang="zh">Entertainment </display-name></channel>
+<channel id="900035"><display-name lang="zh">EURONEWS</display-name></channel>
+<channel id="900036"><display-name lang="zh">Fight Sports</display-name></channel>
+<channel id="900037"><display-name lang="zh">FMN</display-name></channel>
+<channel id="900038"><display-name lang="zh">FOX News</display-name></channel>
+<channel id="900039"><display-name lang="zh">France 24 English</display-name></channel>
+<channel id="900040"><display-name lang="zh">Galaxy</display-name></channel>
+<channel id="900041"><display-name lang="zh">Galaxy Premium</display-name></channel>
+<channel id="900042"><display-name lang="zh">Global Trekker</display-name></channel>
+<channel id="900043"><display-name lang="zh">GTV </display-name></channel>
+<channel id="900044"><display-name lang="zh">GTV HD</display-name></channel>
+<channel id="900045"><display-name lang="zh">History </display-name></channel>
+<channel id="900046"><display-name lang="zh">HITS </display-name></channel>
+<channel id="900047"><display-name lang="zh">HITS MOVIES]</display-name></channel>
+<channel id="900048"><display-name lang="zh">HITS MOVIES HD ]</display-name></channel>
+<channel id="900049"><display-name lang="zh">IDX </display-name></channel>
+<channel id="900050"><display-name lang="zh">IDX HD</display-name></channel>
+<channel id="900051"><display-name lang="zh">IMC </display-name></channel>
+<channel id="900052"><display-name lang="zh">Indosiar</display-name></channel>
+<channel id="900053"><display-name lang="zh">iNews</display-name></channel>
+<channel id="900054"><display-name lang="zh">iNews HD </display-name></channel>
+<channel id="900055"><display-name lang="zh">JAKTV]</display-name></channel>
+<channel id="900056"><display-name lang="zh">Kids TV </display-name></channel>
+<channel id="900057"><display-name lang="zh">KIX</display-name></channel>
+<channel id="900058"><display-name lang="zh">Kompas TV</display-name></channel>
+<channel id="900059"><display-name lang="zh">LIFE</display-name></channel>
+<channel id="900060"><display-name lang="zh">Lifetime </display-name></channel>
+<channel id="900061"><display-name lang="zh">Love Nature </display-name></channel>
+<channel id="900062"><display-name lang="zh">Love Nature HD ]</display-name></channel>
+<channel id="900063"><display-name lang="zh">Metro TV</display-name></channel>
+<channel id="900064"><display-name lang="zh">MNCTV</display-name></channel>
+<channel id="900065"><display-name lang="zh">MNCTV HD </display-name></channel>
+<channel id="900066"><display-name lang="zh">MTV 90</display-name></channel>
+<channel id="900067"><display-name lang="zh">MTV LIVE </display-name></channel>
+<channel id="900068"><display-name lang="zh">Music TV]</display-name></channel>
+<channel id="900069"><display-name lang="zh">Muslim TV </display-name></channel>
+<channel id="900070"><display-name lang="zh">My Cinema</display-name></channel>
+<channel id="900071"><display-name lang="zh">My Cinema Asia </display-name></channel>
+<channel id="900072"><display-name lang="zh">My Family </display-name></channel>
+<channel id="900073"><display-name lang="zh">My Kidz</display-name></channel>
+<channel id="900074"><display-name lang="zh">NET TV</display-name></channel>
+<channel id="900075"><display-name lang="zh">NHK World </display-name></channel>
+<channel id="900076"><display-name lang="zh">NHK World Premium</display-name></channel>
+<channel id="900077"><display-name lang="zh">Nick Jr. HD</display-name></channel>
+<channel id="900078"><display-name lang="zh">Nickelodeon</display-name></channel>
+<channel id="900079"><display-name lang="zh">Nickelodeon Jr</display-name></channel>
+<channel id="900080"><display-name lang="zh">OK TV </display-name></channel>
+<channel id="900081"><display-name lang="zh">Okezone TV</display-name></channel>
+<channel id="900082"><display-name lang="zh">ONE </display-name></channel>
+<channel id="900083"><display-name lang="zh">ONE HD </display-name></channel>
+<channel id="900084"><display-name lang="zh">Outdoor Channel </display-name></channel>
+<channel id="900085"><display-name lang="zh">Outdoor channel HD</display-name></channel>
+<channel id="900086"><display-name lang="zh">PARAMOUNT </display-name></channel>
+<channel id="900087"><display-name lang="zh">PARAMOUNT HD</display-name></channel>
+<channel id="900088"><display-name lang="zh">RCTI </display-name></channel>
+<channel id="900089"><display-name lang="zh">RCTI HD</display-name></channel>
+<channel id="900090"><display-name lang="zh">Rock Action</display-name></channel>
+<channel id="900091"><display-name lang="zh">Rock Entertainment</display-name></channel>
+<channel id="900092"><display-name lang="zh">SCTV</display-name></channel>
+<channel id="900093"><display-name lang="zh">SEA TODAY </display-name></channel>
+<channel id="900094"><display-name lang="zh">Sindo News TV </display-name></channel>
+<channel id="900095"><display-name lang="zh">Sindo News TV HD]</display-name></channel>
+<channel id="900096"><display-name lang="zh">Soccer Channel </display-name></channel>
+<channel id="900097"><display-name lang="zh">Soccer Channel HD</display-name></channel>
+<channel id="900098"><display-name lang="zh">Sportstars</display-name></channel>
+<channel id="900099"><display-name lang="zh">Sportstars 2 </display-name></channel>
+<channel id="900100"><display-name lang="zh">Sportstars 2 HD]</display-name></channel>
+<channel id="900101"><display-name lang="zh">Sportstars 3 </display-name></channel>
+<channel id="900102"><display-name lang="zh">Sportstars 4</display-name></channel>
+<channel id="900103"><display-name lang="zh">Sportstars 4 HD</display-name></channel>
+<channel id="900104"><display-name lang="zh">Sportstars HD </display-name></channel>
+<channel id="900105"><display-name lang="zh">SPOTV </display-name></channel>
+<channel id="900106"><display-name lang="zh">SPOTV 2 </display-name></channel>
+<channel id="900107"><display-name lang="zh">SPOTV 2 HD </display-name></channel>
+<channel id="900108"><display-name lang="zh">SPOTV HD </display-name></channel>
+<channel id="900109"><display-name lang="zh">Tawaf TV</display-name></channel>
+<channel id="900110"><display-name lang="zh">Thrill </display-name></channel>
+<channel id="900111"><display-name lang="zh">Trans 7 </display-name></channel>
+<channel id="900112"><display-name lang="zh">Trans TV]</display-name></channel>
+<channel id="900113"><display-name lang="zh">tvN </display-name></channel>
+<channel id="900114"><display-name lang="zh">tvN HD</display-name></channel>
+<channel id="900115"><display-name lang="zh">tvN Movies </display-name></channel>
+<channel id="900116"><display-name lang="zh">tvN Movies HD</display-name></channel>
+<channel id="900117"><display-name lang="zh">tvOne</display-name></channel>
+<channel id="900118"><display-name lang="zh">TVRI </display-name></channel>
+<channel id="900119"><display-name lang="zh">Vision Prime</display-name></channel>
+<channel id="900120"><display-name lang="zh">Vision Prime HD</display-name></channel>
+<channel id="900121"><display-name lang="zh">Zee Bioskop</display-name></channel>
+<channel id="900122"><display-name lang="zh">Zoomoo</display-name></channel>
