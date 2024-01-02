@@ -6,7 +6,7 @@
 <channel id="100006"><display-name lang="zh">澳門衛星</display-name></channel>
 <channel id="100007"><display-name lang="zh">蓮花衛視</display-name></channel>
 <channel id="100008"><display-name lang="zh">cctv-16</display-name></channel>
-
+<channel id="100009"><display-name lang="zh">香港電台33</display-name></channel>
 <channel id="100010"><display-name lang="zh">民視</display-name></channel>
 <channel id="100011"><display-name lang="zh">人間衛視</display-name></channel>
 <channel id="100012"><display-name lang="zh">台視</display-name></channel>
@@ -408,6 +408,13 @@
 <channel id="100442"><display-name lang="zh">香港开</display-name></channel>
 <channel id="100443"><display-name lang="zh">香港國際財經</display-name></channel>
 
+<channel id="100436"><display-name lang="zh">香港電台31</display-name></channel>
+<channel id="100437"><display-name lang="zh">香港電台32</display-name></channel>
+
+<channel id="100447"><display-name lang="zh">第一財經直播</display-name></channel>
+<channel id="100448"><display-name lang="zh">看看新聞直播</display-name></channel>
+
+
 <channel id="100580"><display-name lang="zh">viu6</display-name></channel>
 <channel id="100581"><display-name lang="zh">viu</display-name></channel>
 <channel id="100582"><display-name lang="zh">now 劇集</display-name></channel>
@@ -705,8 +712,82 @@
 <channel id="70059"><display-name lang="zh">鳳凰中文</display-name></channel>
 <channel id="70060"><display-name lang="zh">鳳凰資訊</display-name></channel>
 <channel id="70061"><display-name lang="zh">鳳凰香港</display-name></channel>
+<channel id="700101"><display-name lang="zh">翡翠台</display-name></channel>
+<channel id="700102"><display-name lang="zh">翡翠台(国际版)</display-name></channel>
+<channel id="700103"><display-name lang="zh">无线新闻(国际版)</display-name></channel>
+<channel id="700104"><display-name lang="zh">无线财经(国际版)</display-name></channel>
+<channel id="700105"><display-name lang="zh">J2</display-name></channel>
+<channel id="700106"><display-name lang="zh">娱乐新闻</display-name></channel>
+<channel id="700107"><display-name lang="zh">TVB星河</display-name></channel>
+<channel id="700108"><display-name lang="zh">TVB功夫台</display-name></channel>
+<channel id="700109"><display-name lang="zh">TVB粤语片</display-name></channel>
+<channel id="700110"><display-name lang="zh">神州新闻</display-name></channel>
+<channel id="700111"><display-name lang="zh">Hands Up</display-name></channel>
 
 
+
+<channel id="800000"><display-name lang="zh">cctv1</display-name></channel>
+<channel id="800001"><display-name lang="zh">cctv2</display-name></channel>
+<channel id="800002"><display-name lang="zh">cctv3</display-name></channel>
+<channel id="800003"><display-name lang="zh">cctv4亚洲</display-name></channel>
+<channel id="800004"><display-name lang="zh">cctv5</display-name></channel>
+<channel id="800005"><display-name lang="zh">cctv5+</display-name></channel>
+<channel id="800006"><display-name lang="zh">cctv6</display-name></channel>
+<channel id="800007"><display-name lang="zh">cctv7</display-name></channel>
+<channel id="800008"><display-name lang="zh">cctv8</display-name></channel>
+<channel id="800009"><display-name lang="zh">cctv9</display-name></channel>
+<channel id="800010"><display-name lang="zh">cctv10</display-name></channel>
+<channel id="800011"><display-name lang="zh">cctv11</display-name></channel>
+<channel id="800012"><display-name lang="zh">cctv12</display-name></channel>
+<channel id="800013"><display-name lang="zh">cctv13</display-name></channel>
+<channel id="800014"><display-name lang="zh">cctv14</display-name></channel>
+<channel id="800015"><display-name lang="zh">cctv15</display-name></channel>
+<channel id="800016"><display-name lang="zh">cctv16</display-name></channel>
+<channel id="800017"><display-name lang="zh">cctv17</display-name></channel>
+<channel id="800018"><display-name lang="zh">cctv4k</display-name></channel>
+<channel id="800019"><display-name lang="zh">cctv第一剧场</display-name></channel>
+<channel id="800020"><display-name lang="zh">cctv风云剧场</display-name></channel>
+<channel id="800021"><display-name lang="zh">cctv怀旧剧场</display-name></channel>
+<channel id="800022"><display-name lang="zh">cctv世界地理</display-name></channel>
+<channel id="800023"><display-name lang="zh">cctv风云音乐</display-name></channel>
+<channel id="800024"><display-name lang="zh">cctv兵器科技</display-name></channel>
+<channel id="800025"><display-name lang="zh">cctv风云足球</display-name></channel>
+<channel id="800026"><display-name lang="zh">cctv高尔夫</display-name></channel>
+<channel id="800027"><display-name lang="zh">cctv女性时尚</display-name></channel>
+<channel id="800028"><display-name lang="zh">cctv文化精品</display-name></channel>
+<channel id="800029"><display-name lang="zh">cctv台球</display-name></channel>
+<channel id="800030"><display-name lang="zh">cctv电视指南</display-name></channel>
+<channel id="800031"><display-name lang="zh">cctv卫生健康</display-name></channel>
+<channel id="800032"><display-name lang="zh">cgtn</display-name></channel>
+<channel id="800033"><display-name lang="zh">cgtn法语</display-name></channel>
+<channel id="800034"><display-name lang="zh">cgtn俄语</display-name></channel>
+<channel id="800035"><display-name lang="zh">cgtn阿拉伯语</display-name></channel>
+<channel id="800036"><display-name lang="zh">cgtn西班牙语</display-name></channel>
+<channel id="800037"><display-name lang="zh">cgtn英文记录片</display-name></channel>
+<channel id="800038"><display-name lang="zh">北京卫视</display-name></channel>
+<channel id="800039"><display-name lang="zh">江苏卫视</display-name></channel>
+<channel id="800040"><display-name lang="zh">东方卫视</display-name></channel>
+<channel id="800041"><display-name lang="zh">浙江卫视</display-name></channel>
+<channel id="800042"><display-name lang="zh">湖南卫视</display-name></channel>
+<channel id="800043"><display-name lang="zh">湖北卫视</display-name></channel>
+<channel id="800044"><display-name lang="zh">广东卫视</display-name></channel>
+<channel id="800045"><display-name lang="zh">广西卫视</display-name></channel>
+<channel id="800046"><display-name lang="zh">黑龙江卫视</display-name></channel>
+<channel id="800047"><display-name lang="zh">海南卫视</display-name></channel>
+<channel id="800048"><display-name lang="zh">重庆卫视</display-name></channel>
+<channel id="800049"><display-name lang="zh">深圳卫视</display-name></channel>
+<channel id="800050"><display-name lang="zh">四川卫视</display-name></channel>
+<channel id="800051"><display-name lang="zh">河南卫视</display-name></channel>
+<channel id="800052"><display-name lang="zh">福建卫视</display-name></channel>
+<channel id="800053"><display-name lang="zh">贵州卫视</display-name></channel>
+<channel id="800054"><display-name lang="zh">江西卫视</display-name></channel>
+<channel id="800055"><display-name lang="zh">辽宁卫视</display-name></channel>
+<channel id="800056"><display-name lang="zh">安徽卫视</display-name></channel>
+<channel id="800057"><display-name lang="zh">河北卫视</display-name></channel>
+<channel id="800058"><display-name lang="zh">山东卫视</display-name></channel>
+<channel id="800059"><display-name lang="zh">天津卫视</display-name></channel>
+<channel id="800060"><display-name lang="zh">新疆卫视</display-name></channel>
+<channel id="800061"><display-name lang="zh">cctv8k</display-name></channel>
 <channel id="800100"><display-name lang="zh">东方卫视</display-name></channel>
 <channel id="800101"><display-name lang="zh">上海新闻综合HD</display-name></channel>
 <channel id="800102"><display-name lang="zh"> 第一财经</display-name></channel>
@@ -860,3 +941,28 @@
 <channel id="900120"><display-name lang="zh">Vision Prime HD</display-name></channel>
 <channel id="900121"><display-name lang="zh">Zee Bioskop</display-name></channel>
 <channel id="900122"><display-name lang="zh">Zoomoo</display-name></channel>
+
+<channel id="900400"><display-name lang="zh">8TV</display-name></channel>
+<channel id="900401"><display-name lang="zh">TVB Magic</display-name></channel>
+<channel id="900402"><display-name lang="zh">爱奇艺</display-name></channel>
+<channel id="900403"><display-name lang="zh">天映经典</display-name></channel>
+<channel id="900404"><display-name lang="zh">AEC</display-name></channel>
+<channel id="900405"><display-name lang="zh">全佳</display-name></channel>
+<channel id="900406"><display-name lang="zh">天映频道</display-name></channel>
+<channel id="900407"><display-name lang="zh">AOD311</display-name></channel>
+<channel id="900408"><display-name lang="zh">星河频道</display-name></channel>
+<channel id="900409"><display-name lang="zh">欢喜台</display-name></channel>
+<channel id="900410"><display-name lang="zh">AOD 352</display-name></channel>
+<channel id="900411"><display-name lang="zh">AOD 354</display-name></channel>
+<channel id="900412"><display-name lang="zh">beIN Sports 1</display-name></channel>
+<channel id="900413"><display-name lang="zh">beIN Sports 2</display-name></channel>
+<channel id="900414"><display-name lang="zh">beIN Sports 3</display-name></channel>
+<channel id="900415"><display-name lang="zh">WWE Network HD</display-name></channel>
+<channel id="900416"><display-name lang="zh">Golf Channel HD</display-name></channel>
+<channel id="900417"><display-name lang="zh">Premier Sports</display-name></channel>
+<channel id="900418"><display-name lang="zh">Astro Cricket HD</display-name></channel>
+<channel id="900419"><display-name lang="zh">Astro SuperSport HD</display-name></channel>
+<channel id="900420"><display-name lang="zh">Astro SuperSport2 HD</display-name></channel>
+<channel id="900421"><display-name lang="zh">Astro SuperSport3 HD</display-name></channel>
+<channel id="900422"><display-name lang="zh">Astro SuperSport4 HD</display-name></channel>
+<channel id="900423"><display-name lang="zh">W-Sport</display-name></channel>
